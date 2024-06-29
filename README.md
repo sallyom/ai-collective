@@ -1,6 +1,6 @@
-# Democratizing AI Through Decentralized Infrastructure
+# Decentralized AI
 
-Build revolutionary AI infrastructure that:
+Build AI ecoystem that:
 - **Democratizes AI**: Make AI accessible to all by leveraging the collective power of opted-in idle devices.
 - **Enhances Innovation**: Foster innovation across diverse communities.
 - **Mitigates Technical Challenges**: Address issues like latency and the need for specialized hardware through sheer quantity of compute power.
@@ -21,7 +21,7 @@ This hybrid approach will create a resilient and flexible infrastructure for dec
 
 ## Harnessing the Power of Distributed Compute
 
-The combined compute power from millions of small devices can overcome challenges like latency and reduce reliance on specialized hardware like GPUs:
+The combined compute power from millions of small devices can overcome challenges like latency and reduce reliance on specialized hardware:
 
 - **Aggregate Computational Power**:
    - **Massive Parallelism**: With millions of devices, the aggregate computational power can become substantial. This can allow for significant parallel processing, where many small tasks are distributed across numerous devices.
@@ -30,7 +30,7 @@ The combined compute power from millions of small devices can overcome challenge
    - **Task Localization**: By intelligently distributing tasks based on proximity or network latency, the overall impact of latency can be reduced. For example, tasks requiring low latency can be assigned to nearby devices.
    - **Redundancy**: Using redundant computations where the same task is processed by multiple devices can help mitigate the impact of latency and ensure reliability.
 - **CPU vs. GPU**:
-   - **Task Suitability**: While GPUs are superior for specific AI tasks, many AI workloads can still be effectively handled by CPUs. For example, distributed training of models can benefit from CPU clusters if the workload is appropriately partitioned.
+   - **Task Suitability**: Many AI workloads can be effectively handled by CPUs. For example, distributed training of models can benefit from CPU clusters if the workload is appropriately partitioned.
    - **Specialized Tasks**: GPUs can be reserved for tasks that critically depend on them, while the bulk of other tasks are processed by CPUs. This hybrid approach can optimize the overall performance.
 - **Edge Computing Advantages**:
    - **Real-Time Processing**: With edge computing, data can be processed closer to its source, reducing the need for long-distance data transfer and thus lowering latency.
