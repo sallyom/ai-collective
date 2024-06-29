@@ -44,33 +44,28 @@ The combined compute power from millions of small devices can overcome challenge
 
 ## Case Studies and Precedents
 
+- **[Logos](https://logos.co/)**
+   - **Overview**: Fully decentralised, privacy-preserving, and politically neutral technology stack that provides the necessary support for self-sovereign virtual territories.
 - **[Mass Open Cloud (MOC)](https://massopen.cloud/)**:
-   - **Overview**: An open, production-quality cloud that fosters innovation.
-   - **Impact**: Demonstrates the power of collaborative, open cloud infrastructure, providing scalable, efficient, and community-driven cloud services.
+   - **Overview**: An open, production-quality cloud that fosters innovation. Collaborative, open cloud infrastructure, providing scalable, efficient, and community-driven cloud services.
 
 - **[IPFS (InterPlanetary File System)](https://ipfs.tech/)**:
-   - **Overview**: Peer-to-peer distributed file system connects a network of computing devices with the same system of files. It uses content-addressing to uniquely identify each file.
-   - **Impact**: Decentralized way to store and share files. Its content-addressable, peer-to-peer nature enhances data distribution efficiency and security.
+   - **Overview**: Peer-to-peer distributed file system connects a network of computing devices with the same system of files. It uses content-addressing to uniquely identify each file. 
 
 - **[BOINC (Berkeley Open Infrastructure for Network Computing)](https://boinc.berkeley.edu/)**:
-   - **Overview**: BOINC is a platform for volunteer computing and grid computing. It uses the idle processing power of personal computers owned by volunteers across the globe.
-   - **Impact**: BOINC has supported various scientific research projects, demonstrating the feasibility and effectiveness of distributed computing in handling large-scale computations.
+   - **Overview**: BOINC is a platform for volunteer computing and grid computing. It uses the idle processing power of personal computers owned by volunteers across the globe. BOINC has supported various scientific research projects, demonstrating the feasibility and effectiveness of distributed computing in handling large-scale computations.
 
 - **[FileCoin](https://filecoin.io/)**:
-   - **Overview**: Decentralized storage network that turns cloud storage into an algorithmic market. Users can rent out spare storage space, and others can pay to store data.
-   - **Impact**: Leverages blockchain technology. Demonstrates the feasibility of decentralized storage systems and their potential to reduce reliance on traditional, centralized data centers.
+   - **Overview**: Decentralized storage network that turns cloud storage into an algorithmic market. Users can rent out spare storage space, and others can pay to store data. Leverages blockchain. Demonstrates the feasibility of decentralized storage systems and their potential to reduce reliance on traditional, centralized data centers.
 
 - **[Storj](https://www.storj.io/)**:
-   - **Overview**: Decentralized cloud storage solution that encrypts, shards, and distributes data across a global network of nodes.
-   - **Impact**: Storj provides a secure, private, and highly available storage system. It offers security and redundancy benefits, showcasing another successful implementation of distributed storage technology.
-
+   - **Overview**: Decentralized cloud storage solution that encrypts, shards, and distributes data across a global network of nodes. Provides a secure, private, and highly available storage system.
+    
 - **[Golem](https://www.golem.network/)**:
    - **Overview**: Decentralized computing network that allows users to rent out their computing power to others. It aims to create a global, open-source supercomputer.
-   - **Impact**: By decentralizing compute resources, Golem demonstrates how distributed networks can provide scalable, flexible, and cost-effective computing power for a variety of applications, including AI workloads.
 
 - **[Folding@home](https://foldingathome.org/)**:
-   - **Overview**: Folding@home is a distributed computing project aimed at simulating protein folding, which helps scientists understand diseases like Alzheimer's and cancer.
-   - **Impact**: This project leverages the idle computing power of volunteers to run simulations that would otherwise require massive supercomputing resources.
+   - **Overview**: Folding@home is a distributed computing project aimed at simulating protein folding, which helps scientists understand diseases like Alzheimer's and cancer. This project leverages the idle computing power of volunteers to run simulations that would otherwise require massive supercomputing resources.
 
 ## Vision of a New Internet Layer
 
